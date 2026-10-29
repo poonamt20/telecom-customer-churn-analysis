@@ -45,15 +45,10 @@ The project explores customer churn through the following analyses:
 
 ## 6. Key Findings
 
-The analysis is designed to identify patterns such as:
-
-- Whether customers on month-to-month contracts have higher churn rates.
-- Whether customers with shorter tenure are more likely to leave.
-- Whether payment methods are associated with different churn rates.
-- Whether internet service type and additional services are associated with churn.
-- Whether monthly charges differ between churned and retained customers.
-
-The final findings should be interpreted using the results from the completed SQL queries.
+- **Overall churn:** Out of 7,043 customers, 1,869 customers left the company, resulting in a churn rate of 26.54%.
+- **Contract type:** Month-to-month contracts had the highest churn rate at 42.71%, compared with 11.27% for one-year contracts and 2.83% for two-year contracts.
+- **Customer retention:** Customers with longer-term contracts showed lower churn rates than customers with month-to-month contracts.
+- **Business insight:** The company could investigate why month-to-month customers leave more frequently and explore suitable retention offers for this group.
 
 ## 7. Business Recommendations
 
