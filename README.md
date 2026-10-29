@@ -49,7 +49,11 @@ The project explores customer churn through the following analyses:
 - **Contract type:** Month-to-month contracts had the highest churn rate at 42.71%, compared with 11.27% for one-year contracts and 2.83% for two-year contracts.
 - **Customer retention:** Customers with longer-term contracts showed lower churn rates than customers with month-to-month contracts.
 - **Business insight:** The company could investigate why month-to-month customers leave more frequently and explore suitable retention offers for this group.
-
+- **Customer tenure:** Customers who had been with the company for 12 months or less had the highest churn rate at 47.44%. The rate decreased to 9.51% among customers with 49 or more months of tenure.
+- - **Payment method:** Customers using electronic checks had the highest churn rate at 45.29%, compared with 19.11% for mailed checks, 16.71% for automatic bank transfers and 15.24% for automatic credit-card payments. The company could investigate whether payment experience or other customer characteristics contribute to this difference.
+  - - **Internet service:** Customers using fiber optic internet had the highest churn rate at 41.89%, compared with 18.96% for DSL customers and 7.40% for customers without internet service. The company could investigate customer satisfaction, pricing and service quality among fiber optic users.
+    - - **Technical support:** Customers without technical support had a churn rate of 41.64%, compared with 15.17% for customers with technical support. The company could investigate whether improving support access and customer assistance would help improve retention.
+        
 ## 7. Business Recommendations
 
 Based on the patterns identified in the analysis, the company could consider:
